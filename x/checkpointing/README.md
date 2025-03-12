@@ -1,4 +1,4 @@
-# Checkpointing
+# Checkpointing test
 
 The Checkpointing module is responsible for generating and maintaining
 the status of Babylon's Bitcoin checkpoints. The technical core
