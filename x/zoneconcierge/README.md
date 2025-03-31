@@ -94,7 +94,7 @@ truth, and does not make any assumption on the fraction of adversarial
 validators in Babylon or PoS blockchains. That is, the above statement shall
 hold even if Babylon and a PoS blockchain have dishonest supermajority. The
 formal security analysis of the Bitcoin timestamping protocol can be found at
-the Bitcoin timestamping [reseaarch paper](https://arxiv.org/pdf/2207.08392.pdf)
+the Bitcoin timestamping [research paper](https://arxiv.org/pdf/2207.08392.pdf)
 published at [S\&P'23](https://sp2023.ieee-security.org/).
 
 ### Design
